@@ -1,0 +1,69 @@
+#ap {
+    -fx-background-color: #006666;
+}
+
+.button {
+    -fx-background-color: #009999;
+    -fx-font-size: 18px;
+}
+
+#playpauseButton1, #playPauseButton2 {
+    -fx-font-size: 15px;
+}
+
+.button:hover {
+    -fx-background-color: #00cccc;
+}
+
+.slider .track {
+    -fx-control-inner-background: #00cccc;
+    -webkit-fx-border: none;
+    -moz-fx-border: none;
+    -ms-fx-border: none;
+    -o-fx-border: none;
+    -khtml-fx-border: none;
+    fx-border: none;
+    -webkit-fx-color: #00cccc;
+    -moz-fx-color: #00cccc;
+    -ms-fx-color: #00cccc;
+    -o-fx-color: #00cccc;
+    -khtml-fx-color: #00cccc;
+    fx-color: #00cccc;
+}
+
+.label {
+    -fx-text-fill: white;
+    -fx-font-size: 18px;
+}
+
+#titleLabel {
+    -fx-font-size: 30px;
+    -fx-font-weight: bolder;
+}
+
+.list-view {
+    -fx-background-color: #002222;
+    -fx-text-fill: white;
+}
+
+.text-field {
+    -fx-background-color: #002222;
+    -fx-text-fill: white;
+}
+
+#linksLabel {
+    -fx-font-weight: bolder;
+}
+
+#submitButton {
+    -fx-font-weight: bolder;
+}
+
+.list-cell {
+    -fx-background-color: #002222;
+    -fx-text-fill: white;
+}
+
+.list-cell:filled:selected {
+    -fx-background-color: #006666;
+}

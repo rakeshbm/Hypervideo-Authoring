@@ -1,0 +1,38 @@
+#ap2 {
+    -fx-background-color: #006666;
+}
+
+.button {
+    -fx-background-color: #009999;
+    -fx-font-size: 18px;
+}
+
+.button:hover {
+    -fx-background-color: #00cccc;
+}
+
+.label {
+    -fx-text-fill: white;
+    -fx-font-size: 18px;
+}
+
+.slider .track {
+    -fx-control-inner-background: #00cccc;
+    -webkit-fx-border: none;
+    -moz-fx-border: none;
+    -ms-fx-border: none;
+    -o-fx-border: none;
+    -khtml-fx-border: none;
+    fx-border: none;
+    -webkit-fx-color: #00cccc;
+    -moz-fx-color: #00cccc;
+    -ms-fx-color: #00cccc;
+    -o-fx-color: #00cccc;
+    -khtml-fx-color: #00cccc;
+    fx-color: #00cccc;
+}
+
+#videoLabel {
+    -fx-font-size: 30px;
+    -fx-font-weight: bolder;
+}
