@@ -1,6 +1,6 @@
-# FxTest
+# Hypervideo Authoring Tool
 
-A repo containing a test implementation of a HyperVideo author tool and player. 
+A HyperVideo authoring tool and player built from scratch in Java.
 
 ## Requirements:
 - Java (preferably 7 and above)
